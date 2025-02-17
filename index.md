@@ -10,3 +10,6 @@ Markdown is a lightweight syntax for formatting text.
 #### This is an `<h4>` header
 ##### This is an `<h5>` header
 ###### This is an `<h6>` header
+
+### Adding an Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
