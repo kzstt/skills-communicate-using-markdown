@@ -13,3 +13,12 @@ Markdown is a lightweight syntax for formatting text.
 
 ### Adding an Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Adding a Code Block
+Here is an example of a Python function:
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("GeoBater"))
