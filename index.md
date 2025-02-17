@@ -22,3 +22,12 @@ def greet(name):
     return f"Hello, {name}!"
 
 print(greet("GeoBater"))
+
+### Adding a Task List
+Here are some tasks to complete:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Complete the Markdown course
+- [x] Add a code block to `index.md`
+
